@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "picture": "https://i.postimg.cc/nVY8SRS3/Education.png",
+        "title": "Feed the Children",
+        "category": "Food",
+        "category_bg": "#FFD700",
+        "card_bg": "#FFFACD",
+        "text_button_bg": "#FF6347",
+        "description": "Providing nutritious meals to underprivileged children.",
+        "price": 25
+    },
+    {
+        "id": 2,
+        "picture": "https://example.com/pic2.jpg",
+        "title": "Build a School",
+        "category": "Education",
+        "category_bg": "#87CEEB",
+        "card_bg": "#E0FFFF",
+        "text_button_bg": "#4682B4",
+        "description": "Constructing schools in rural areas to provide quality education.",
+        "price": 50
+    },
+    {
+        "id": 3,
+        "picture": "https://example.com/pic3.jpg",
+        "title": "Medical Aid",
+        "category": "Health",
+        "category_bg": "#98FB98",
+        "card_bg": "#F0FFF0",
+        "text_button_bg": "#3CB371",
+        "description": "Supplying essential medical equipment and medicines.",
+        "price": 100
+    },
+    {
+        "id": 4,
+        "picture": "https://example.com/pic4.jpg",
+        "title": "Clean Water",
+        "category": "Water",
+        "category_bg": "#00BFFF",
+        "card_bg": "#ADD8E6",
+        "text_button_bg": "#1E90FF",
+        "description": "Providing access to clean and safe drinking water.",
+        "price": 30
+    },
+    {
+        "id": 5,
+        "picture": "https://example.com/pic5.jpg",
+        "title": "Shelter for Homeless",
+        "category": "Shelter",
+        "category_bg": "#DDA0DD",
+        "card_bg": "#EEE8AA",
+        "text_button_bg": "#BA55D3",
+        "description": "Building shelters for homeless families.",
+        "price": 75
+    },
+    {
+        "id": 6,
+        "picture": "https://example.com/pic6.jpg",
+        "title": "Disaster Relief",
+        "category": "Emergency",
+        "category_bg": "#FA8072",
+        "card_bg": "#FFA07A",
+        "text_button_bg": "#FF4500",
+        "description": "Providing immediate assistance to disaster-stricken areas.",
+        "price": 200
+    },
+    {
+        "id": 7,
+        "picture": "https://example.com/pic7.jpg",
+        "title": "Animal Rescue",
+        "category": "Animal Welfare",
+        "category_bg": "#FF69B4",
+        "card_bg": "#FFB6C1",
+        "text_button_bg": "#FF1493",
+        "description": "Rescuing and rehabilitating abandoned animals.",
+        "price": 40
+    },
+    {
+        "id": 8,
+        "picture": "https://example.com/pic8.jpg",
+        "title": "Plant a Tree",
+        "category": "Environment",
+        "category_bg": "#32CD32",
+        "card_bg": "#98FB98",
+        "text_button_bg": "#00FF7F",
+        "description": "Planting trees to combat deforestation and climate change.",
+        "price": 15
+    },
+    {
+        "id": 9,
+        "picture": "https://example.com/pic9.jpg",
+        "title": "Elderly Care",
+        "category": "Senior Support",
+        "category_bg": "#DAA520",
+        "card_bg": "#FFD700",
+        "text_button_bg": "#B8860B",
+        "description": "Supporting elderly people with food and healthcare.",
+        "price": 60
+    },
+    {
+        "id": 10,
+        "picture": "https://example.com/pic10.jpg",
+        "title": "Women's Empowerment",
+        "category": "Social",
+        "category_bg": "#FF6347",
+        "card_bg": "#FFA07A",
+        "text_button_bg": "#FF4500",
+        "description": "Programs to empower women through education and skill training.",
+        "price": 35
+    },
+    {
+        "id": 11,
+        "picture": "https://example.com/pic11.jpg",
+        "title": "Support for Refugees",
+        "category": "Human Rights",
+        "category_bg": "#8A2BE2",
+        "card_bg": "#9370DB",
+        "text_button_bg": "#4B0082",
+        "description": "Providing basic needs and legal aid to refugees.",
+        "price": 80
+    },
+    {
+        "id": 12,
+        "picture": "https://example.com/pic12.jpg",
+        "title": "Mental Health Awareness",
+        "category": "Health",
+        "category_bg": "#4682B4",
+        "card_bg": "#B0C4DE",
+        "text_button_bg": "#1E90FF",
+        "description": "Raising awareness and providing support for mental health issues.",
+        "price": 45
+    }
+]
